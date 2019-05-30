@@ -1,0 +1,6 @@
+framework module Pods_XFSegementView_Tests {
+  umbrella header "Pods-XFSegementView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

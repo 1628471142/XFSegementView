@@ -1,0 +1,16 @@
+PODS:
+  - XFSegementView (0.1.0)
+
+DEPENDENCIES:
+  - XFSegementView (from `../`)
+
+EXTERNAL SOURCES:
+  XFSegementView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XFSegementView: ff094429383bb5c898c9a1dc5df654933885996d
+
+PODFILE CHECKSUM: 03e646da2773a8f9a0127dd8dd62661a0bac0250
+
+COCOAPODS: 1.6.1

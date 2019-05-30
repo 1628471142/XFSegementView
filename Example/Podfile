@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XFSegementView_Example' do
+  pod 'XFSegementView', :path => '../'
+
+  target 'XFSegementView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
