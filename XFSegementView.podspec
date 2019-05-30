@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/953894805@qq.com/XFSegementView'
+  s.homepage         = 'https://github.com/1628471142/XFSegementView.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '953894805@qq.com' => '953894805@qq.com' }
-  s.source           = { :git => 'https://github.com/953894805@qq.com/XFSegementView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/1628471142/XFSegementView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
